@@ -9,6 +9,8 @@
 <img src="https://i.imgur.com/p7t9blJ.png">
 <br>
 <br>
+## Para Acessar
+<a href="https://nycolassm.github.io/Pagina_Hotel_Paraiso">Acesse Aqui</a>
 <br>
 <br>
 <h2></h2>
